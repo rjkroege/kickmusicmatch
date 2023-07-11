@@ -1,0 +1,4 @@
+Edit X:kickmusicmatch/\+Errors: 1,$d
+X:kickmusicmatch/.*\.js: w
+
+{osascript -l JavaScript kickmusicmatch.js}
